@@ -1,0 +1,29 @@
+/* General
+   ========================================================================== */
+
+/* ====== Global Settings ====== */
+
+body {
+    background-color: $base-bg-color;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* ====== Text Highlight Color ====== */
+
+::selection {
+    background: #e96a2e;
+}
+
+::-moz-selection {
+    background: #e96a2e;
+}
+
+/* ====== Show / Hide Devices  ====== */
+
+
+/* Mobile */
