@@ -1,0 +1,23 @@
+{
+  "name": "adamlyost.com",
+  "version": "0.0.1",
+  "authors": [
+    "adamlyost@gmail.com"
+  ],
+  "description": "Third Party libraries bower managed",
+  "license": "MIT",
+  "homepage": "http://adamlyost.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sass-mq": "sass-mq#latest",
+    "sass-susy": "susy#latest",
+    "Font-Awesome": "Font-Awesome#latest"
+  }
+}
