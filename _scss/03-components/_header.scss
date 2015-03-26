@@ -19,6 +19,10 @@ header{
         @include mq($until: tablet) {
             @include span(12 of 12);
         }
+        li {
+            list-style: none;
+            display: inline;
+        }
     }
 }
 
